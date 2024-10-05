@@ -1,1 +1,2 @@
 # Sales-Data-Analysis-Dashboard
+This project analyzes sales data to gain insights and assist in decision-making. Using Microsoft Excel as the primary tool, we explore the data to uncover trends, patterns, and opportunities for improvement by creating a dynamic sales dashboard. The project involves key steps such as understanding the business problem, cleaning the data, and working with Excel features like pivot tables, charts, and functions to create a comprehensive dashboard
